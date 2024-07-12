@@ -7,13 +7,13 @@ author_profile: true
 
 
 
-[**A Simple Framework for Likely Climate Projections Applied to Tropical Width**] (/files/likely_hc.pdf)
+**[A Simple Framework for Likely Climate Projections Applied to Tropical Width]** (/files/likely_hc.pdf)
 
 Published in _Climate Dynamics_, 2024
 
 The increasing use of climate projections in adaptation necessitates a consistent method for producing estimates of likely future conditions from available climate model data. Many climate projections are produced using high emission scenarios and an evenly weighted ensemble of all available climate models despite substantial evidence that the continuously rising emissions in high emission scenarios are unrealistic, and that some models are more reliable than others. While high emission scenarios can be used to generate a more significant climate change signal and are often not intended to be interpreted as projections, a reader who is a non-expert on climate scenarios may not understand this nuance. As a result, unlikely climate projections could be inadvertently used to plan crucial adaptation efforts for future warming. Here, we present a simple and easy to use framework for creating projections of our likely future climate by combining existing methods. The framework involves three measures: selecting the most likely emission scenario, choosing the most reliable models, and debiasing against observational or reanalysis data. Each of these steps allows for a range of methods with varying complexity, precision, and utility. To demonstrate our framework and its components, we use the simplest applicable methods to estimate future changes in tropical width, a hydrologically important climate feature. Our projections show that the likely tropical expansion by the end of this century is roughly half of some previously reported estimates, largely due to the selected emission scenario. This simple framework can be easily applied to other climate features, allowing for better estimates of likely future conditions.
 
-[**Large uncertainty in observed estimates of tropical width from the meridional stream function**] (/files/hc_uncertainty.pdf)
+**[Large uncertainty in observed estimates of tropical width from the meridional stream function]** (/files/hc_uncertainty.pdf)
 
 Published in _Weather and Climate Dynamics_, 2023
 
