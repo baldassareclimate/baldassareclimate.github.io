@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 [**A Simple Framework for Likely Climate Projections Applied to Tropical Width**] (/files/likely_hc.pdf)
 
 Published in _Climate Dynamics_, 2024
