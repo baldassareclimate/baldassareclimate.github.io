@@ -15,7 +15,7 @@ My research uses atmospheric science, physics, machine learning, and economics t
 
 **Consulting Services**
 
-As a Climate Scientist, I can assist on a variety of projects where climate forecasts are necessary, and assist with greenhouse gas accounting, sustainability, or other climate-related issues. In the past, I have worked on a few large forest restoration projects such as the [North Fork Forest Recovery Project] (https://www.fs.usda.gov/project/?project=64028) by writing the [NEPA Climate Report] (https://www.regulations.gov/document/CEQ-2022-0005-0023). I have also worked on international efforts to improve climate change monitoring, as well as product development for various startups.
+As a Climate Scientist, I can assist on a variety of projects where climate forecasts are necessary, and assist with greenhouse gas accounting, sustainability, or other climate-related issues. In the past, I have worked on a few large forest restoration projects such as the [North Fork Forest Recovery Project](https://www.fs.usda.gov/project/?project=64028) by writing the [NEPA Climate Report](https://www.regulations.gov/document/CEQ-2022-0005-0023). I have also worked on international efforts to improve climate change monitoring, as well as product development for various startups.
 
 **My Background**
 
