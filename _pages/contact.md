@@ -4,9 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-
-
-$~$
+** **
 
 **Have a project that needs climate science expertise?**
 
