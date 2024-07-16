@@ -9,4 +9,4 @@ I bring scientific rigor, creativity, and cutting-edge climate science knowledge
 
 I offer affordable, fast, and high-quality report writing, climate change analysis, and greenhouse gas accounting services, tailored to your needs. I also help companies from startups to international consortiums analyze business opportunities involving climate change, providing detailed, actionable reports. Past clients have been impressed by my rigorousness, versatility, and creativity in meeting their complex challenges. 
 
-Find my contact info [here](https://baldassareclimate.github.io/contact/) and reach out for cost estimates, reviews from previous clients, and a free consultation.
+Email me at daniel (at) baldassarecliamte.com or set up a [meeting](https://calendly.com/daniel-baldassareclimate/meeting) for cost estimates, reviews from previous clients, and a free consultation.
