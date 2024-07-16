@@ -10,4 +10,4 @@ author_profile: true
 
 **Send me an email at daniel (at) baldassareclimate.com or find me on** [**LinkedIn**](https://www.linkedin.com/in/dbaldassare99/)
 
-**Schedule a free consultation here** [**link**](https://calendly.com/daniel-baldassareclimate)
+**Schedule a free consultation** [**here**](https://calendly.com/daniel-baldassareclimate)
