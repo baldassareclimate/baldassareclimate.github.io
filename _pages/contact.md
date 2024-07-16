@@ -8,6 +8,6 @@ author_profile: true
 
 **Have a project that needs climate science expertise?**
 
-**Send me an email at daniel.baldassare (at) utah.edu or find me on** [**LinkedIn**](https://www.linkedin.com/in/dbaldassare99/)
+**Send me an email at daniel (at) baldassareclimate.com or find me on** [**LinkedIn**](https://www.linkedin.com/in/dbaldassare99/)
 
-**To schedule a free consultation follow this** [**link**](https://calendly.com/daniel-baldassare-utah/30min)
+**Schedule a free consultation here** [**link**](https://calendly.com/daniel-baldassareclimate)
