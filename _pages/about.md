@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a Climate Scientist and Climate Adaptation Consultant. I earned a PhD in At
 
 **My Research**
 
-My research uses atmospheric science, physics, machine learning, and economics to create better climate forecasts. As climate impacts become more severe, accurate and narrow projections are needed to improve resilience, which remains difficult with current climate modeling tools. While the ultimate solution is an overhaul of climate models, in my publications I show that a simpler fix exists in the meantime, using economic forecasts and satellite data to remove less reliable projections from the more than 200 available simulations, allowing adaptation planners to focus on a much narrower range of possible climate changes.
+My research uses atmospheric science, physics, machine learning, and economics to create better climate forecasts. As climate impacts become more severe, accurate and narrow projections are needed to improve resilience, which remains difficult with current climate modeling tools. While the ultimate solution is an overhaul of climate models, in my [publications](https://baldassareclimate.com/publications) I show that a simpler fix exists in the meantime, using economic forecasts and satellite data to remove less reliable projections from the more than 200 available simulations, allowing adaptation planners to focus on a much narrower range of possible climate changes.
 
 **Consulting Services**
 
