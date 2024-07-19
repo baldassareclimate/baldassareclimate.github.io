@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniel Baldassare"
+title                    : "Daniel Baldassare PhD"
 title_separator          : "-"
 name                     : &name "Daniel Baldassare"
 description              : &description "Creating more precise and reliable climate forecasts for adaptation and resilience"
@@ -22,7 +22,7 @@ repository               : "baldassareclimate/baldassareclimate.github.io"
 author:
   # Biographic information
   avatar           : profile.jpg
-  name             : "Daniel Baldassare, PhD"
+  name             : "Daniel Baldassare"
   pronouns         : # example: "she/her"  
   bio              : "Climate Scientist"
   location         : "Berkeley, California"
