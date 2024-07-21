@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-[**A Simple Framework for Likely Climate Projections Applied to Tropical Width**](/files/likely_hc.pdf)
+[**A Simple Framework for Likely Climate Projections Applied to Tropical Width**](/files/A-Simple-Framework-for-Likely-Climate-Projections-Applied-to-Tropical-Width.pdf
+)
 
 Published in _Climate Dynamics_, 2024
 
