@@ -9,8 +9,6 @@ main:
   - title: "Projects"
     url: /projects/
         
-  - title: "Blog"
-    url: /blog/
     
   - title: "Resume"
     url: /resume/
